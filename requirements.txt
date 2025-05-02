@@ -1,0 +1,6 @@
+pandas
+matplotlib
+os
+csv
+numpy
+jupyterlabs
