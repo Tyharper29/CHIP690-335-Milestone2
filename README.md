@@ -7,7 +7,7 @@ Introduction
 # Data set files
 
 Unfortunately, the files are too large for me to upload to my GitHub repository. Here is the link to where you can retrieve the data set. 
-Link: https://www.samhsa.gov/data/data-we-collect/mh-cld-mental-health-client-level-data/datafiles 
-Select data set: MH-CLD 2019, MH-CLD 2020, MH-CLD 2021
-Download the "Delimited" files for each year
-The files will be zip files, which need to be extracted for the CSV files.
+1. Link: https://www.samhsa.gov/data/data-we-collect/mh-cld-mental-health-client-level-data/datafiles 
+2. Select data set: MH-CLD 2019, MH-CLD 2020, MH-CLD 2021
+3. Download the "Delimited" files for each year
+4. The files will be zip files, which need to be extracted for the CSV files.
